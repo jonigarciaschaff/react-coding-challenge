@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before running the project
+
+Create the .env.local file and this variables:
+
+### `REACT_APP_API = 'app-api-example'`
+### `REACT_APP_API_KEY = 'app-api-key-example'`
+### `REACT_APP_API_IMAGE_URL = 'https://www.themoviedb.org/t/p/w220_and_h330_face'`
+
 ## Available Scripts
 
 In the project directory, you can run:
