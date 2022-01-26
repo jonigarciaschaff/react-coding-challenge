@@ -26,7 +26,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="container min-w-full bg-slate-700">
+      <div className="container min-w-full min-h-screen bg-slate-700">
         <div className="flex justify-center">
           <Search onChange={setSearchValue}/>
         </div>
